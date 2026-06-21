@@ -557,8 +557,17 @@ def build_live_context():
                         'ask': float(m.get('yes_ask_dollars') or 0),
                         'vol24h': float(m.get('volume_24h_fp') or 0),
                     }
-                home_mkt = legs.get(home_abbr, {})
-                away_mkt = legs.get(away_abbr, {})
+                # Use Kalshi team codes (not ESPN abbreviations) — they can differ (e.g., Iran: ESPN=IRN, Kalshi=IRI)
+                sys.path.insert(0, SCRIPT_DIR)
+                try:
+                    from team_codes import NAME_TO_CODE
+                    home_kalshi_code = NAME_TO_CODE.get(home_norm, home_abbr)
+                    away_kalshi_code = NAME_TO_CODE.get(away_norm, away_abbr)
+                except Exception:
+                    home_kalshi_code = home_abbr
+                    away_kalshi_code = away_abbr
+                home_mkt = legs.get(home_kalshi_code, {})
+                away_mkt = legs.get(away_kalshi_code, {})
                 tie_mkt = legs.get('TIE', {})
                 kalshi_str = (
                     f"{home_abbr} ${home_mkt.get('last','?')} (bid {home_mkt.get('bid','?')}/ask {home_mkt.get('ask','?')}, vol {home_mkt.get('vol24h',0):,.0f}), "
@@ -578,19 +587,25 @@ def build_live_context():
                 mp = lookup_matrix(matrix, odds_class, minute, fav_score, und_score)
             elif state == "pre":
                 mp = lookup_matrix(matrix, odds_class, 0, 0, 0)
+            # Vegas-anchored calibration
+            if mp:
+                mp = vegas_calibrate(mp, matrix, odds_class,
+                                     cls.get('fav_american'), cls.get('und_american'),
+                                     cls.get('draw_american'))
 
         matrix_str = "N/A"
         edges_str = ""
         if mp:
-            fav_price_key = home_abbr if home_is_fav else away_abbr
-            und_price_key = away_abbr if home_is_fav else home_abbr
+            fav_price_key = home_kalshi_code if home_is_fav else away_kalshi_code
+            und_price_key = away_kalshi_code if home_is_fav else home_kalshi_code
             fav_leg = legs.get(fav_price_key, {})
             und_leg = legs.get(und_price_key, {})
             tie_leg = legs.get('TIE', {})
             fav_price = fav_leg.get('last', 0)
             und_price = und_leg.get('last', 0)
             tie_price = tie_leg.get('last', 0)
-            matrix_str = f"P(fav win)={mp['fav_win']*100:.1f}%, P(tie)={mp['tie']*100:.1f}%, P(und win)={mp['und_win']*100:.1f}% (n={mp['sample']:,}, state={mp['state_used']} @ min {mp['minute_bucket']})"
+            cal_note = " [Vegas-calibrated]" if mp.get('calibrated') else ""
+            matrix_str = f"P(fav win)={mp['fav_win']*100:.1f}%, P(tie)={mp['tie']*100:.1f}%, P(und win)={mp['und_win']*100:.1f}%{cal_note} (n={mp['sample']:,}, state={mp['state_used']} @ min {mp['minute_bucket']})"
             fav_edge = (fav_price - mp['fav_win']) * 100
             tie_edge = (tie_price - mp['tie']) * 100
             und_edge = (und_price - mp['und_win']) * 100
@@ -616,7 +631,7 @@ def build_live_context():
         except Exception:
             pass
 
-        mismatch_warn = " ⚠ MISMATCH (do not bet TIE)" if is_mismatch else ""
+        mismatch_warn = " ⚠ EXTREME FAV (caution on all legs, Vegas-calibrated)" if is_mismatch else ""
         lines.append(
             f"\nGame: {home_team} ({home_abbr}) vs {away_team} ({away_abbr})\n"
             f"  Status: {status_desc} | Score: {home_score}-{away_score} | Clock: {clock}\n"
