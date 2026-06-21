@@ -350,9 +350,16 @@ async def get_games():
             except Exception:
                 pass
 
-        # Map to home/away/tie (regardless of who's favorite)
-        home_key = home_abbr
-        away_key = away_abbr
+        # Map to home/away/tie using Kalshi team codes (not ESPN abbreviations)
+        # ESPN and Kalshi sometimes differ (e.g., Iran: ESPN=IRN, Kalshi=IRI)
+        sys.path.insert(0, SCRIPT_DIR)
+        try:
+            from team_codes import NAME_TO_CODE
+            home_key = NAME_TO_CODE.get(normalize_team_name(home_team), home_abbr)
+            away_key = NAME_TO_CODE.get(normalize_team_name(away_team), away_abbr)
+        except Exception:
+            home_key = home_abbr
+            away_key = away_abbr
         home_mkt = kalshi_legs.get(home_key, {})
         away_mkt = kalshi_legs.get(away_key, {})
         tie_mkt = kalshi_legs.get('TIE', {})
