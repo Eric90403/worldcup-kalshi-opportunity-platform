@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# State / runtime files
+/tmp/wc_*.json
+/tmp/wc_*.log
+/tmp/*_offset
+
+# Trading data (personal)
+data/trade_log.csv
+data/vegas_kalshi_baseline.csv
+data/goal_alerts.csv
+data/equalizer_alerts.csv
+data/live_edge_commentary.log
+data/live_edge_run.log
+data/parquet/
+
+# Third-party datasets (copyright — do not redistribute)
+data/football-data/
+data/kaggle_matches_parsed.json
+data/football_matches_processed.json
+
+# Environment / secrets
+.env
+*.pem
+*.key

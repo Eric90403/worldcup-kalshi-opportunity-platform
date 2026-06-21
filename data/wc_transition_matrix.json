@@ -1,0 +1,1828 @@
+{
+  "0": {
+    "0-0": {
+      "home_win": 0.5624,
+      "away_win": 0.28,
+      "tie": 0.1576,
+      "sample": 850
+    }
+  },
+  "5": {
+    "0-0": {
+      "home_win": 0.5654,
+      "away_win": 0.2774,
+      "tie": 0.1572,
+      "sample": 757
+    },
+    "1-0": {
+      "home_win": 0.7333,
+      "away_win": 0.0667,
+      "tie": 0.2,
+      "sample": 45
+    },
+    "0-1": {
+      "home_win": 0.3182,
+      "away_win": 0.5455,
+      "tie": 0.1364,
+      "sample": 44
+    },
+    "2-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 3
+    },
+    "1-1": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    }
+  },
+  "10": {
+    "0-0": {
+      "home_win": 0.5537,
+      "away_win": 0.2935,
+      "tie": 0.1528,
+      "sample": 661
+    },
+    "1-0": {
+      "home_win": 0.7596,
+      "away_win": 0.0577,
+      "tie": 0.1827,
+      "sample": 104
+    },
+    "0-1": {
+      "home_win": 0.3288,
+      "away_win": 0.4932,
+      "tie": 0.1781,
+      "sample": 73
+    },
+    "2-0": {
+      "home_win": 0.875,
+      "away_win": 0.0,
+      "tie": 0.125,
+      "sample": 8
+    },
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "1-1": {
+      "home_win": 0.5,
+      "away_win": 0.5,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "0-2": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    }
+  },
+  "15": {
+    "0-0": {
+      "home_win": 0.5434,
+      "away_win": 0.3097,
+      "tie": 0.1469,
+      "sample": 565
+    },
+    "1-0": {
+      "home_win": 0.8201,
+      "away_win": 0.036,
+      "tie": 0.1439,
+      "sample": 139
+    },
+    "2-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 18
+    },
+    "2-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "0-1": {
+      "home_win": 0.2642,
+      "away_win": 0.4811,
+      "tie": 0.2547,
+      "sample": 106
+    },
+    "1-1": {
+      "home_win": 0.5333,
+      "away_win": 0.2667,
+      "tie": 0.2,
+      "sample": 15
+    },
+    "3-0": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 1
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "0-2": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    }
+  },
+  "20": {
+    "1-0": {
+      "home_win": 0.7844,
+      "away_win": 0.0419,
+      "tie": 0.1737,
+      "sample": 167
+    },
+    "0-0": {
+      "home_win": 0.5468,
+      "away_win": 0.3098,
+      "tie": 0.1435,
+      "sample": 481
+    },
+    "2-0": {
+      "home_win": 0.9677,
+      "away_win": 0.0,
+      "tie": 0.0323,
+      "sample": 31
+    },
+    "3-0": {
+      "home_win": 0.6667,
+      "away_win": 0.0,
+      "tie": 0.3333,
+      "sample": 3
+    },
+    "2-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 5
+    },
+    "0-1": {
+      "home_win": 0.2713,
+      "away_win": 0.5426,
+      "tie": 0.186,
+      "sample": 129
+    },
+    "1-1": {
+      "home_win": 0.4348,
+      "away_win": 0.2174,
+      "tie": 0.3478,
+      "sample": 23
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "0-2": {
+      "home_win": 0.1429,
+      "away_win": 0.7143,
+      "tie": 0.1429,
+      "sample": 7
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "1-2": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 1
+    }
+  },
+  "25": {
+    "1-0": {
+      "home_win": 0.7647,
+      "away_win": 0.0588,
+      "tie": 0.1765,
+      "sample": 187
+    },
+    "0-0": {
+      "home_win": 0.5426,
+      "away_win": 0.3163,
+      "tie": 0.1411,
+      "sample": 411
+    },
+    "2-0": {
+      "home_win": 0.9714,
+      "away_win": 0.0,
+      "tie": 0.0286,
+      "sample": 35
+    },
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 9
+    },
+    "2-1": {
+      "home_win": 0.875,
+      "away_win": 0.0,
+      "tie": 0.125,
+      "sample": 8
+    },
+    "0-1": {
+      "home_win": 0.2609,
+      "away_win": 0.5435,
+      "tie": 0.1957,
+      "sample": 138
+    },
+    "1-1": {
+      "home_win": 0.5405,
+      "away_win": 0.1892,
+      "tie": 0.2703,
+      "sample": 37
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 3
+    },
+    "3-1": {
+      "home_win": 0.6667,
+      "away_win": 0.0,
+      "tie": 0.3333,
+      "sample": 3
+    },
+    "1-2": {
+      "home_win": 0.0,
+      "away_win": 0.3333,
+      "tie": 0.6667,
+      "sample": 3
+    },
+    "0-2": {
+      "home_win": 0.0714,
+      "away_win": 0.8571,
+      "tie": 0.0714,
+      "sample": 14
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    }
+  },
+  "30": {
+    "1-0": {
+      "home_win": 0.7684,
+      "away_win": 0.0632,
+      "tie": 0.1684,
+      "sample": 190
+    },
+    "2-0": {
+      "home_win": 0.9434,
+      "away_win": 0.0,
+      "tie": 0.0566,
+      "sample": 53
+    },
+    "0-0": {
+      "home_win": 0.5404,
+      "away_win": 0.3203,
+      "tie": 0.1393,
+      "sample": 359
+    },
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 10
+    },
+    "2-1": {
+      "home_win": 0.9167,
+      "away_win": 0.0,
+      "tie": 0.0833,
+      "sample": 12
+    },
+    "0-1": {
+      "home_win": 0.2429,
+      "away_win": 0.5571,
+      "tie": 0.2,
+      "sample": 140
+    },
+    "1-1": {
+      "home_win": 0.4898,
+      "away_win": 0.2041,
+      "tie": 0.3061,
+      "sample": 49
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 4
+    },
+    "3-1": {
+      "home_win": 0.8,
+      "away_win": 0.0,
+      "tie": 0.2,
+      "sample": 5
+    },
+    "1-2": {
+      "home_win": 0.0,
+      "away_win": 0.4,
+      "tie": 0.6,
+      "sample": 5
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "0-2": {
+      "home_win": 0.05,
+      "away_win": 0.9,
+      "tie": 0.05,
+      "sample": 20
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    }
+  },
+  "35": {
+    "1-0": {
+      "home_win": 0.776,
+      "away_win": 0.0677,
+      "tie": 0.1562,
+      "sample": 192
+    },
+    "2-0": {
+      "home_win": 0.9286,
+      "away_win": 0.0,
+      "tie": 0.0714,
+      "sample": 56
+    },
+    "0-0": {
+      "home_win": 0.5287,
+      "away_win": 0.328,
+      "tie": 0.1433,
+      "sample": 314
+    },
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 19
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 6
+    },
+    "2-1": {
+      "home_win": 0.8,
+      "away_win": 0.05,
+      "tie": 0.15,
+      "sample": 20
+    },
+    "0-1": {
+      "home_win": 0.2878,
+      "away_win": 0.5108,
+      "tie": 0.2014,
+      "sample": 139
+    },
+    "1-1": {
+      "home_win": 0.4167,
+      "away_win": 0.2667,
+      "tie": 0.3167,
+      "sample": 60
+    },
+    "3-1": {
+      "home_win": 0.6667,
+      "away_win": 0.0,
+      "tie": 0.3333,
+      "sample": 3
+    },
+    "1-2": {
+      "home_win": 0.0,
+      "away_win": 0.5714,
+      "tie": 0.4286,
+      "sample": 7
+    },
+    "0-2": {
+      "home_win": 0.037,
+      "away_win": 0.9259,
+      "tie": 0.037,
+      "sample": 27
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 3
+    }
+  },
+  "40": {
+    "2-0": {
+      "home_win": 0.9655,
+      "away_win": 0.0,
+      "tie": 0.0345,
+      "sample": 58
+    },
+    "1-0": {
+      "home_win": 0.7801,
+      "away_win": 0.0681,
+      "tie": 0.1518,
+      "sample": 191
+    },
+    "0-0": {
+      "home_win": 0.5455,
+      "away_win": 0.322,
+      "tie": 0.1326,
+      "sample": 264
+    },
+    "3-0": {
+      "home_win": 0.9667,
+      "away_win": 0.0,
+      "tie": 0.0333,
+      "sample": 30
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 10
+    },
+    "2-1": {
+      "home_win": 0.75,
+      "away_win": 0.0417,
+      "tie": 0.2083,
+      "sample": 24
+    },
+    "0-1": {
+      "home_win": 0.2238,
+      "away_win": 0.5455,
+      "tie": 0.2308,
+      "sample": 143
+    },
+    "1-2": {
+      "home_win": 0.1818,
+      "away_win": 0.4545,
+      "tie": 0.3636,
+      "sample": 11
+    },
+    "1-1": {
+      "home_win": 0.4384,
+      "away_win": 0.2466,
+      "tie": 0.3151,
+      "sample": 73
+    },
+    "3-1": {
+      "home_win": 0.75,
+      "away_win": 0.0,
+      "tie": 0.25,
+      "sample": 4
+    },
+    "0-2": {
+      "home_win": 0.0385,
+      "away_win": 0.9231,
+      "tie": 0.0385,
+      "sample": 26
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 5
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 7
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 2
+    }
+  },
+  "45": {
+    "3-0": {
+      "home_win": 0.9714,
+      "away_win": 0.0,
+      "tie": 0.0286,
+      "sample": 35
+    },
+    "2-0": {
+      "home_win": 0.9538,
+      "away_win": 0.0,
+      "tie": 0.0462,
+      "sample": 65
+    },
+    "1-0": {
+      "home_win": 0.7923,
+      "away_win": 0.0656,
+      "tie": 0.1421,
+      "sample": 183
+    },
+    "0-0": {
+      "home_win": 0.5385,
+      "away_win": 0.3213,
+      "tie": 0.1403,
+      "sample": 221
+    },
+    "3-1": {
+      "home_win": 0.8889,
+      "away_win": 0.0,
+      "tie": 0.1111,
+      "sample": 9
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 13
+    },
+    "2-1": {
+      "home_win": 0.7931,
+      "away_win": 0.0,
+      "tie": 0.2069,
+      "sample": 29
+    },
+    "0-1": {
+      "home_win": 0.1857,
+      "away_win": 0.5929,
+      "tie": 0.2214,
+      "sample": 140
+    },
+    "1-2": {
+      "home_win": 0.15,
+      "away_win": 0.6,
+      "tie": 0.25,
+      "sample": 20
+    },
+    "1-1": {
+      "home_win": 0.4713,
+      "away_win": 0.2069,
+      "tie": 0.3218,
+      "sample": 87
+    },
+    "2-2": {
+      "home_win": 0.5,
+      "away_win": 0.5,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "0-2": {
+      "home_win": 0.0345,
+      "away_win": 0.8966,
+      "tie": 0.069,
+      "sample": 29
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 6
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 6
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 3
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 2
+    }
+  },
+  "50": {
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 43
+    },
+    "2-0": {
+      "home_win": 0.9538,
+      "away_win": 0.0,
+      "tie": 0.0462,
+      "sample": 65
+    },
+    "1-0": {
+      "home_win": 0.8258,
+      "away_win": 0.0449,
+      "tie": 0.1292,
+      "sample": 178
+    },
+    "0-0": {
+      "home_win": 0.5389,
+      "away_win": 0.3278,
+      "tie": 0.1333,
+      "sample": 180
+    },
+    "3-1": {
+      "home_win": 0.8667,
+      "away_win": 0.0,
+      "tie": 0.1333,
+      "sample": 15
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 19
+    },
+    "2-1": {
+      "home_win": 0.7297,
+      "away_win": 0.027,
+      "tie": 0.2432,
+      "sample": 37
+    },
+    "0-1": {
+      "home_win": 0.1583,
+      "away_win": 0.6187,
+      "tie": 0.223,
+      "sample": 139
+    },
+    "2-2": {
+      "home_win": 0.5,
+      "away_win": 0.0,
+      "tie": 0.5,
+      "sample": 2
+    },
+    "1-2": {
+      "home_win": 0.16,
+      "away_win": 0.6,
+      "tie": 0.24,
+      "sample": 25
+    },
+    "1-1": {
+      "home_win": 0.4194,
+      "away_win": 0.2258,
+      "tie": 0.3548,
+      "sample": 93
+    },
+    "2-3": {
+      "home_win": 0.3333,
+      "away_win": 0.6667,
+      "tie": 0.0,
+      "sample": 3
+    },
+    "0-2": {
+      "home_win": 0.0345,
+      "away_win": 0.8966,
+      "tie": 0.069,
+      "sample": 29
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 6
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 9
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 5
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 2
+    }
+  },
+  "55": {
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 40
+    },
+    "2-0": {
+      "home_win": 0.9474,
+      "away_win": 0.0,
+      "tie": 0.0526,
+      "sample": 76
+    },
+    "1-0": {
+      "home_win": 0.8204,
+      "away_win": 0.0359,
+      "tie": 0.1437,
+      "sample": 167
+    },
+    "0-0": {
+      "home_win": 0.5616,
+      "away_win": 0.3219,
+      "tie": 0.1164,
+      "sample": 146
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 6
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 26
+    },
+    "3-1": {
+      "home_win": 0.85,
+      "away_win": 0.0,
+      "tie": 0.15,
+      "sample": 20
+    },
+    "0-1": {
+      "home_win": 0.1094,
+      "away_win": 0.6719,
+      "tie": 0.2188,
+      "sample": 128
+    },
+    "2-1": {
+      "home_win": 0.7632,
+      "away_win": 0.0526,
+      "tie": 0.1842,
+      "sample": 38
+    },
+    "3-2": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "1-2": {
+      "home_win": 0.1071,
+      "away_win": 0.75,
+      "tie": 0.1429,
+      "sample": 28
+    },
+    "1-1": {
+      "home_win": 0.4608,
+      "away_win": 0.1667,
+      "tie": 0.3725,
+      "sample": 102
+    },
+    "3-3": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "0-2": {
+      "home_win": 0.0263,
+      "away_win": 0.8947,
+      "tie": 0.0789,
+      "sample": 38
+    },
+    "2-2": {
+      "home_win": 0.2857,
+      "away_win": 0.1429,
+      "tie": 0.5714,
+      "sample": 7
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 9
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 8
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 0.7143,
+      "tie": 0.2857,
+      "sample": 7
+    },
+    "2-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    }
+  },
+  "60": {
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 36
+    },
+    "2-0": {
+      "home_win": 0.9359,
+      "away_win": 0.0,
+      "tie": 0.0641,
+      "sample": 78
+    },
+    "1-0": {
+      "home_win": 0.8642,
+      "away_win": 0.0309,
+      "tie": 0.1049,
+      "sample": 162
+    },
+    "0-0": {
+      "home_win": 0.5676,
+      "away_win": 0.3423,
+      "tie": 0.0901,
+      "sample": 111
+    },
+    "4-1": {
+      "home_win": 0.8889,
+      "away_win": 0.0,
+      "tie": 0.1111,
+      "sample": 9
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 33
+    },
+    "3-1": {
+      "home_win": 0.9091,
+      "away_win": 0.0,
+      "tie": 0.0909,
+      "sample": 22
+    },
+    "0-1": {
+      "home_win": 0.0813,
+      "away_win": 0.7073,
+      "tie": 0.2114,
+      "sample": 123
+    },
+    "2-1": {
+      "home_win": 0.7755,
+      "away_win": 0.0204,
+      "tie": 0.2041,
+      "sample": 49
+    },
+    "4-2": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "1-2": {
+      "home_win": 0.0606,
+      "away_win": 0.7273,
+      "tie": 0.2121,
+      "sample": 33
+    },
+    "1-1": {
+      "home_win": 0.4298,
+      "away_win": 0.1491,
+      "tie": 0.4211,
+      "sample": 114
+    },
+    "3-3": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "2-2": {
+      "home_win": 0.6,
+      "away_win": 0.2,
+      "tie": 0.2,
+      "sample": 5
+    },
+    "0-2": {
+      "home_win": 0.0263,
+      "away_win": 0.9211,
+      "tie": 0.0526,
+      "sample": 38
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 10
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 9
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 0.875,
+      "tie": 0.125,
+      "sample": 8
+    },
+    "2-3": {
+      "home_win": 0.0,
+      "away_win": 0.6667,
+      "tie": 0.3333,
+      "sample": 6
+    },
+    "3-2": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 2
+    }
+  },
+  "65": {
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 45
+    },
+    "2-0": {
+      "home_win": 0.9494,
+      "away_win": 0.0,
+      "tie": 0.0506,
+      "sample": 79
+    },
+    "2-1": {
+      "home_win": 0.8298,
+      "away_win": 0.0213,
+      "tie": 0.1489,
+      "sample": 47
+    },
+    "1-0": {
+      "home_win": 0.8797,
+      "away_win": 0.019,
+      "tie": 0.1013,
+      "sample": 158
+    },
+    "0-0": {
+      "home_win": 0.5357,
+      "away_win": 0.369,
+      "tie": 0.0952,
+      "sample": 84
+    },
+    "4-2": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 31
+    },
+    "3-1": {
+      "home_win": 0.8929,
+      "away_win": 0.0,
+      "tie": 0.1071,
+      "sample": 28
+    },
+    "0-1": {
+      "home_win": 0.0789,
+      "away_win": 0.7544,
+      "tie": 0.1667,
+      "sample": 114
+    },
+    "1-2": {
+      "home_win": 0.0789,
+      "away_win": 0.6842,
+      "tie": 0.2368,
+      "sample": 38
+    },
+    "1-1": {
+      "home_win": 0.3898,
+      "away_win": 0.1356,
+      "tie": 0.4746,
+      "sample": 118
+    },
+    "4-1": {
+      "home_win": 0.9286,
+      "away_win": 0.0,
+      "tie": 0.0714,
+      "sample": 14
+    },
+    "4-3": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "2-2": {
+      "home_win": 0.3333,
+      "away_win": 0.2222,
+      "tie": 0.4444,
+      "sample": 9
+    },
+    "0-2": {
+      "home_win": 0.0,
+      "away_win": 0.95,
+      "tie": 0.05,
+      "sample": 40
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 11
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 10
+    },
+    "3-2": {
+      "home_win": 0.5,
+      "away_win": 0.0,
+      "tie": 0.5,
+      "sample": 4
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 9
+    },
+    "2-3": {
+      "home_win": 0.0,
+      "away_win": 0.5,
+      "tie": 0.5,
+      "sample": 6
+    },
+    "2-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "1-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    }
+  },
+  "70": {
+    "3-1": {
+      "home_win": 0.9615,
+      "away_win": 0.0,
+      "tie": 0.0385,
+      "sample": 26
+    },
+    "3-0": {
+      "home_win": 0.9792,
+      "away_win": 0.0,
+      "tie": 0.0208,
+      "sample": 48
+    },
+    "2-1": {
+      "home_win": 0.7857,
+      "away_win": 0.0357,
+      "tie": 0.1786,
+      "sample": 56
+    },
+    "1-0": {
+      "home_win": 0.8684,
+      "away_win": 0.0197,
+      "tie": 0.1118,
+      "sample": 152
+    },
+    "0-0": {
+      "home_win": 0.5231,
+      "away_win": 0.4,
+      "tie": 0.0769,
+      "sample": 65
+    },
+    "4-2": {
+      "home_win": 0.6667,
+      "away_win": 0.0,
+      "tie": 0.3333,
+      "sample": 3
+    },
+    "2-0": {
+      "home_win": 0.9753,
+      "away_win": 0.0,
+      "tie": 0.0247,
+      "sample": 81
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 37
+    },
+    "0-1": {
+      "home_win": 0.0505,
+      "away_win": 0.7879,
+      "tie": 0.1616,
+      "sample": 99
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 19
+    },
+    "1-2": {
+      "home_win": 0.0556,
+      "away_win": 0.7222,
+      "tie": 0.2222,
+      "sample": 36
+    },
+    "1-1": {
+      "home_win": 0.3684,
+      "away_win": 0.1228,
+      "tie": 0.5088,
+      "sample": 114
+    },
+    "3-2": {
+      "home_win": 0.5,
+      "away_win": 0.0,
+      "tie": 0.5,
+      "sample": 8
+    },
+    "4-3": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "2-2": {
+      "home_win": 0.4545,
+      "away_win": 0.0,
+      "tie": 0.5455,
+      "sample": 11
+    },
+    "0-2": {
+      "home_win": 0.0,
+      "away_win": 0.9535,
+      "tie": 0.0465,
+      "sample": 43
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 15
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 11
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 14
+    },
+    "2-3": {
+      "home_win": 0.0,
+      "away_win": 0.7143,
+      "tie": 0.2857,
+      "sample": 7
+    },
+    "2-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 1
+    },
+    "1-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "3-3": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 1
+    }
+  },
+  "75": {
+    "3-1": {
+      "home_win": 0.9655,
+      "away_win": 0.0,
+      "tie": 0.0345,
+      "sample": 29
+    },
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 49
+    },
+    "2-1": {
+      "home_win": 0.8871,
+      "away_win": 0.0,
+      "tie": 0.1129,
+      "sample": 62
+    },
+    "1-1": {
+      "home_win": 0.3304,
+      "away_win": 0.125,
+      "tie": 0.5446,
+      "sample": 112
+    },
+    "0-0": {
+      "home_win": 0.52,
+      "away_win": 0.42,
+      "tie": 0.06,
+      "sample": 50
+    },
+    "1-0": {
+      "home_win": 0.8712,
+      "away_win": 0.0,
+      "tie": 0.1288,
+      "sample": 132
+    },
+    "4-3": {
+      "home_win": 0.6667,
+      "away_win": 0.0,
+      "tie": 0.3333,
+      "sample": 3
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 39
+    },
+    "2-0": {
+      "home_win": 0.9882,
+      "away_win": 0.0,
+      "tie": 0.0118,
+      "sample": 85
+    },
+    "0-1": {
+      "home_win": 0.0215,
+      "away_win": 0.8495,
+      "tie": 0.129,
+      "sample": 93
+    },
+    "3-2": {
+      "home_win": 0.7333,
+      "away_win": 0.0,
+      "tie": 0.2667,
+      "sample": 15
+    },
+    "2-2": {
+      "home_win": 0.1667,
+      "away_win": 0.1111,
+      "tie": 0.7222,
+      "sample": 18
+    },
+    "4-2": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 2
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 23
+    },
+    "1-2": {
+      "home_win": 0.05,
+      "away_win": 0.75,
+      "tie": 0.2,
+      "sample": 40
+    },
+    "3-3": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 2
+    },
+    "2-3": {
+      "home_win": 0.0,
+      "away_win": 0.7273,
+      "tie": 0.2727,
+      "sample": 11
+    },
+    "0-2": {
+      "home_win": 0.0,
+      "away_win": 0.9737,
+      "tie": 0.0263,
+      "sample": 38
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 17
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 12
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 11
+    },
+    "1-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 5
+    },
+    "2-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    }
+  },
+  "80": {
+    "3-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 34
+    },
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 46
+    },
+    "2-1": {
+      "home_win": 0.9178,
+      "away_win": 0.0,
+      "tie": 0.0822,
+      "sample": 73
+    },
+    "0-0": {
+      "home_win": 0.5833,
+      "away_win": 0.3611,
+      "tie": 0.0556,
+      "sample": 36
+    },
+    "1-0": {
+      "home_win": 0.8607,
+      "away_win": 0.0082,
+      "tie": 0.1311,
+      "sample": 122
+    },
+    "4-3": {
+      "home_win": 0.6667,
+      "away_win": 0.0,
+      "tie": 0.3333,
+      "sample": 3
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 46
+    },
+    "2-0": {
+      "home_win": 0.9886,
+      "away_win": 0.0,
+      "tie": 0.0114,
+      "sample": 88
+    },
+    "0-1": {
+      "home_win": 0.0222,
+      "away_win": 0.8667,
+      "tie": 0.1111,
+      "sample": 90
+    },
+    "3-2": {
+      "home_win": 0.75,
+      "away_win": 0.0,
+      "tie": 0.25,
+      "sample": 16
+    },
+    "2-2": {
+      "home_win": 0.1667,
+      "away_win": 0.0417,
+      "tie": 0.7917,
+      "sample": 24
+    },
+    "4-2": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 4
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 26
+    },
+    "3-3": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 5
+    },
+    "1-1": {
+      "home_win": 0.2245,
+      "away_win": 0.1122,
+      "tie": 0.6633,
+      "sample": 98
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 12
+    },
+    "0-2": {
+      "home_win": 0.0,
+      "away_win": 0.9744,
+      "tie": 0.0256,
+      "sample": 39
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 17
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 12
+    },
+    "1-2": {
+      "home_win": 0.0,
+      "away_win": 0.9231,
+      "tie": 0.0769,
+      "sample": 39
+    },
+    "1-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 8
+    },
+    "2-3": {
+      "home_win": 0.0,
+      "away_win": 0.9,
+      "tie": 0.1,
+      "sample": 10
+    },
+    "2-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    }
+  },
+  "85": {
+    "3-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 42
+    },
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 39
+    },
+    "2-1": {
+      "home_win": 0.9167,
+      "away_win": 0.0,
+      "tie": 0.0833,
+      "sample": 84
+    },
+    "1-0": {
+      "home_win": 0.9455,
+      "away_win": 0.0,
+      "tie": 0.0545,
+      "sample": 110
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 54
+    },
+    "4-3": {
+      "home_win": 0.75,
+      "away_win": 0.0,
+      "tie": 0.25,
+      "sample": 4
+    },
+    "2-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 76
+    },
+    "3-2": {
+      "home_win": 0.7895,
+      "away_win": 0.0,
+      "tie": 0.2105,
+      "sample": 19
+    },
+    "2-2": {
+      "home_win": 0.1786,
+      "away_win": 0.0,
+      "tie": 0.8214,
+      "sample": 28
+    },
+    "4-2": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 4
+    },
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 30
+    },
+    "3-3": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 5
+    },
+    "1-1": {
+      "home_win": 0.1649,
+      "away_win": 0.0928,
+      "tie": 0.7423,
+      "sample": 97
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 14
+    },
+    "0-1": {
+      "home_win": 0.0,
+      "away_win": 0.9167,
+      "tie": 0.0833,
+      "sample": 84
+    },
+    "0-0": {
+      "home_win": 0.619,
+      "away_win": 0.3333,
+      "tie": 0.0476,
+      "sample": 21
+    },
+    "0-2": {
+      "home_win": 0.0,
+      "away_win": 0.9744,
+      "tie": 0.0256,
+      "sample": 39
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 20
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 13
+    },
+    "1-2": {
+      "home_win": 0.0,
+      "away_win": 0.85,
+      "tie": 0.15,
+      "sample": 40
+    },
+    "1-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 13
+    },
+    "2-3": {
+      "home_win": 0.0,
+      "away_win": 0.9167,
+      "tie": 0.0833,
+      "sample": 12
+    },
+    "2-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 2
+    }
+  },
+  "90": {
+    "4-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 39
+    },
+    "3-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 40
+    },
+    "2-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 86
+    },
+    "3-1": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 44
+    },
+    "1-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 102
+    },
+    "4-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 55
+    },
+    "4-3": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 3
+    },
+    "2-0": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 75
+    },
+    "3-2": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 23
+    },
+    "2-2": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 38
+    },
+    "4-2": {
+      "home_win": 1.0,
+      "away_win": 0.0,
+      "tie": 0.0,
+      "sample": 10
+    },
+    "3-3": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 10
+    },
+    "1-1": {
+      "home_win": 0.0116,
+      "away_win": 0.0,
+      "tie": 0.9884,
+      "sample": 86
+    },
+    "1-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 16
+    },
+    "4-4": {
+      "home_win": 0.0,
+      "away_win": 0.0,
+      "tie": 1.0,
+      "sample": 1
+    },
+    "0-2": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 41
+    },
+    "0-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 23
+    },
+    "0-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 14
+    },
+    "1-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 15
+    },
+    "0-1": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 70
+    },
+    "1-2": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 44
+    },
+    "2-3": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 10
+    },
+    "2-4": {
+      "home_win": 0.0,
+      "away_win": 1.0,
+      "tie": 0.0,
+      "sample": 5
+    }
+  }
+}

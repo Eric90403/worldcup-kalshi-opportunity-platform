@@ -1,0 +1,18 @@
+# Core dependencies
+fastapi>=0.104.0
+uvicorn>=0.24.0
+requests>=2.31.0
+
+# Database (optional — for data warehouse)
+psycopg2-binary>=2.9.9
+pymongo>=4.6.0
+
+# Note: This project uses `pass` (GPG password-store) for credential management.
+# Install via your OS package manager:
+#   Ubuntu/Debian: sudo apt install pass
+#   macOS: brew install pass
+#
+# Required credentials (stored in pass):
+#   pass show kalshi              → Kalshi API Key ID
+#   pass show kalshi-private-key  → Kalshi RSA private key
+#   pass show oddsdotcom          → The Odds API key (https://the-odds-api.com/)
